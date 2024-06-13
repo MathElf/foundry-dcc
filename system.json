@@ -2,7 +2,7 @@
   "id": "dcc",
   "name": "dcc",
   "title": "Dungeon Crawl Classics",
-  "description": "Dungeon Crawl Classics from Goodman Games",
+  "description": "Fork of Dungeon Crawl Classics from Goodman Games",
   "version": "0.40.0",
   "minimumCoreVersion": "10",
   "compatibility": {
@@ -16,18 +16,6 @@
     }
   ],
   "contributors": [
-    {
-      "name": "Tim L. White",
-      "email": "tim@cyface.com"
-    },
-    {
-      "name": "Steve Barnett",
-      "email": "mooped@gmail.com"
-    },
-    {
-      "name": "Christian Ovsenik",
-      "email": "ceovsenik@gmail.com"
-    }
   ],
   "esmodules": [
     "module/dcc.js"
