@@ -1,5 +1,5 @@
 {
-  "author": "Tim L. White <tim@cyface.com>",
+  "author": "M. Elf",
   "babel": {
     "presets": [
       [
@@ -13,7 +13,7 @@
     ]
   },
   "bugs": {
-    "url": "https://github.com/foundryvtt-dcc/dcc/issues"
+    "url": "https://github.com/MathElf/foundry-dcc/issues"
   },
   "description": "Dungeon Crawl Classics RPG Support for Foundry VTT",
   "devDependencies": {
@@ -28,7 +28,7 @@
   "directories": {
     "test": "module/tests"
   },
-  "homepage": "https://github.com/foundryvtt-dcc/dcc#readme",
+  "homepage": "https://github.com/MathElf/foundry-dcc#readme",
   "jest": {
     "setupFiles": [
       "<rootDir>/module/__mocks__/setup.js",
@@ -47,12 +47,12 @@
   "name": "dcc",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/foundryvtt-dcc/dcc.git"
+    "url": "githttps://github.com/MathElf/foundry-dcc.git"
   },
   "scripts": {
     "format": "standard --fix && stylelint \"**/*.scss\"",
     "test": "jest",
     "scss": "sass styles/dcc.scss styles/dcc.css"
   },
-  "version": "0.0.4"
+  "version": "0.0.5"
 }
